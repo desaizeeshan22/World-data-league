@@ -1,0 +1,545 @@
+Region_of_Origin,District_of_Origin,County_of_Origin,Period,GenderDescription,AgeClassDescription,Average_BusUsers_per_Day,Average Temp
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Female,15-24,294.194206,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Female,25-34,1081.652817,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Female,35-44,235.836653,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Female,45-54,840.951323,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Female,55-64,1216.148092,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,15-24,1148.427051,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,25-34,421.94018,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,35-44,137.697607,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,45-54,617.693161,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,55-64,867.481913,17.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-19 to Feb-20,Male,65+,1612.851365,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,15-24,745.379537,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,25-34,919.144204,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,35-44,816.414391,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,45-54,970.140963,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,55-64,756.408177,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Female,65+,2017.333975,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Male,15-24,4548.093582,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Male,25-34,298.292615,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Male,35-44,439.301423,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Male,45-54,690.807533,17.0
+R1 - AM Lisboa,Lisboa,Cascais,Sep-19 to Feb-20,Male,55-64,822.493709,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,15-24,2622.526139,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,25-34,1505.189142,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,35-44,1021.261465,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,45-54,1217.651233,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,55-64,2407.573978,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Female,65+,4955.503747,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,15-24,3061.885495,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,25-34,2919.594549,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,35-44,1289.676418,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,45-54,1041.699059,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,55-64,1714.973185,17.0
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-19 to Feb-20,Male,65+,4116.755355,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,15-24,2529.941678,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,25-34,866.086815,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,35-44,817.834735,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,45-54,292.304178,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,55-64,264.211066,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Female,65+,147.47484,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Male,15-24,115.773418,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Male,25-34,117.599576,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Male,35-44,452.760878,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Male,45-54,774.207928,17.0
+R1 - AM Lisboa,Lisboa,Loures,Sep-19 to Feb-20,Male,55-64,2105.541715,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Female,15-24,384.745532,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Female,25-34,121.57576,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Female,35-44,1615.902979,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Female,45-54,249.054524,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,15-24,116.974878,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,25-34,432.498117,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,35-44,23.104181,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,45-54,166.322924,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,55-64,273.979757,17.0
+R1 - AM Lisboa,Lisboa,Mafra,Sep-19 to Feb-20,Male,65+,1217.08844,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Female,15-24,965.790017,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Female,25-34,461.725149,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Female,35-44,653.928959,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Female,45-54,1724.795552,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Female,55-64,816.338215,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Male,25-34,1405.963201,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Male,35-44,1683.830909,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Male,45-54,2040.400332,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Male,55-64,2031.494335,17.0
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-19 to Feb-20,Male,65+,5441.109494,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,15-24,2068.685107,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,25-34,21.863276,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,35-44,335.828948,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,45-54,1184.322816,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,55-64,3560.659986,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Female,65+,2264.585254,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Male,25-34,1126.049729,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Male,35-44,1341.769467,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Male,45-54,695.774521,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Male,55-64,1525.267809,17.0
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-19 to Feb-20,Male,65+,9574.868536,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,15-24,809.491342,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,25-34,702.87631,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,35-44,1067.548506,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,45-54,628.884637,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,55-64,575.924467,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Female,65+,341.166005,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,15-24,1039.44849,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,25-34,514.157731,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,35-44,560.391065,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,45-54,724.617493,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,55-64,822.201267,17.0
+R1 - AM Lisboa,Lisboa,Sintra,Sep-19 to Feb-20,Male,65+,371.207607,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,15-24,1526.050605,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,25-34,57.097292,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,35-44,467.533246,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,45-54,703.039153,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,55-64,967.153277,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Female,65+,598.696931,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Male,25-34,791.983677,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Male,35-44,137.425488,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Male,45-54,534.709075,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Male,55-64,141.556626,17.0
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-19 to Feb-20,Male,65+,4619.763109,17.0
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-19 to Feb-20,Female,25-34,47.734735,17.0
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-19 to Feb-20,Female,45-54,42.712664,17.0
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-19 to Feb-20,Male,35-44,148.504551,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Female,15-24,76.98526,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Female,25-34,529.797711,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Female,35-44,1113.117185,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Female,45-54,701.945176,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Female,55-64,1539.05817,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,15-24,1140.502352,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,25-34,17.528597,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,35-44,567.133667,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,45-54,734.437908,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,55-64,1153.217952,17.0
+R1 - AM Lisboa,Setúbal,Almada,Sep-19 to Feb-20,Male,65+,754.478639,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Female,25-34,154.142963,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Female,35-44,216.209564,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Female,45-54,142.916866,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Female,55-64,592.69902,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Female,65+,6863.508899,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Male,25-34,250.727837,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Male,35-44,269.762879,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Male,45-54,159.137107,17.0
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-19 to Feb-20,Male,55-64,138.42494,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Female,15-24,25.139772,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Female,35-44,1126.283479,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Female,45-54,251.447252,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Male,15-24,411.24564,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Male,45-54,335.032273,17.0
+R1 - AM Lisboa,Setúbal,Moita,Sep-19 to Feb-20,Male,55-64,17.028465,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Female,35-44,65.504612,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Female,45-54,33.591196,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Male,25-34,602.079344,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Male,35-44,217.440708,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Male,45-54,747.404025,17.0
+R1 - AM Lisboa,Setúbal,Montijo,Sep-19 to Feb-20,Male,55-64,224.17008,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Female,25-34,28.561207,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Female,35-44,78.45602,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Female,45-54,698.500461,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Female,55-64,978.140462,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Female,65+,2484.065644,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Male,35-44,15.544175,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Male,45-54,170.105533,17.0
+R1 - AM Lisboa,Setúbal,Palmela,Sep-19 to Feb-20,Male,55-64,17.659149,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,15-24,1659.21487,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,25-34,526.222318,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,35-44,430.854109,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,45-54,532.982647,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,55-64,236.728677,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Female,65+,3368.063491,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Male,15-24,37.697725,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Male,25-34,1964.138353,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Male,35-44,98.771815,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Male,45-54,538.247601,17.0
+R1 - AM Lisboa,Setúbal,Seixal,Sep-19 to Feb-20,Male,55-64,1141.757788,17.0
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-19 to Feb-20,Female,35-44,186.003027,17.0
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-19 to Feb-20,Female,45-54,130.390426,17.0
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-19 to Feb-20,Female,65+,67.916045,17.0
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-19 to Feb-20,Male,25-34,110.870067,17.0
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-19 to Feb-20,Male,35-44,191.243758,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Female,25-34,331.657285,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Female,35-44,105.175159,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Female,45-54,740.266994,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Female,65+,442.945625,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Male,25-34,310.902223,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Male,35-44,219.090928,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Male,45-54,292.351649,17.0
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-19 to Feb-20,Male,55-64,2306.435434,17.0
+R2 - AM Porto,Aveiro,Espinho,Sep-19 to Feb-20,Female,25-34,282.382257,16.0
+R2 - AM Porto,Aveiro,Espinho,Sep-19 to Feb-20,Female,35-44,112.209066,16.0
+R2 - AM Porto,Aveiro,Espinho,Sep-19 to Feb-20,Male,25-34,324.282029,16.0
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-19 to Feb-20,Female,25-34,30.49873,16.0
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-19 to Feb-20,Female,35-44,227.205005,16.0
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-19 to Feb-20,Male,15-24,2532.403842,16.0
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-19 to Feb-20,Male,35-44,26.80014,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Female,25-34,153.751464,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Female,35-44,860.110131,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Female,45-54,67.578262,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Male,15-24,290.768477,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Male,25-34,734.897731,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Male,35-44,130.878587,16.0
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-19 to Feb-20,Male,45-54,268.190888,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Female,15-24,572.388784,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Female,25-34,343.643229,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Female,35-44,847.476573,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Female,45-54,832.964612,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Female,65+,66882.20846,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,15-24,49.269538,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,25-34,882.342028,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,35-44,342.1531,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,45-54,1549.784064,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,55-64,3561.84035,16.0
+R2 - AM Porto,Porto,Gondomar,Sep-19 to Feb-20,Male,65+,7947.050672,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,15-24,476.873417,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,25-34,2126.358371,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,35-44,243.40302,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,45-54,814.760142,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,55-64,49.697015,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Female,65+,1421.823252,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Male,15-24,565.371422,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Male,35-44,1011.329388,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Male,45-54,611.142998,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Male,55-64,2368.864346,16.0
+R2 - AM Porto,Porto,Maia,Sep-19 to Feb-20,Male,65+,38731.00503,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Female,25-34,2379.340342,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Female,35-44,290.60732,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Female,45-54,3124.936903,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Female,55-64,5938.059939,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Male,15-24,781.200941,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Male,35-44,556.53915,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Male,45-54,2313.69445,16.0
+R2 - AM Porto,Porto,Matosinhos,Sep-19 to Feb-20,Male,55-64,780.90493,16.0
+R2 - AM Porto,Porto,Paredes,Sep-19 to Feb-20,Female,35-44,381.711442,16.0
+R2 - AM Porto,Porto,Paredes,Sep-19 to Feb-20,Male,25-34,274.555628,16.0
+R2 - AM Porto,Porto,Paredes,Sep-19 to Feb-20,Male,35-44,99.506985,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,15-24,341.998863,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,25-34,987.620247,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,35-44,891.159557,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,45-54,3870.204082,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,55-64,6762.320821,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Female,65+,11774.91845,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,15-24,27.958507,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,25-34,3898.766393,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,35-44,1425.301241,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,45-54,3409.967677,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,55-64,897.575261,16.0
+R2 - AM Porto,Porto,Porto,Sep-19 to Feb-20,Male,65+,13509.24184,16.0
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-19 to Feb-20,Female,35-44,176.362802,16.0
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-19 to Feb-20,Female,45-54,388.604836,16.0
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-19 to Feb-20,Male,25-34,154.871189,16.0
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-19 to Feb-20,Male,35-44,1376.448442,16.0
+R2 - AM Porto,Porto,Santo Tirso,Sep-19 to Feb-20,Female,35-44,42.763319,16.0
+R2 - AM Porto,Porto,Santo Tirso,Sep-19 to Feb-20,Male,35-44,11.84607,16.0
+R2 - AM Porto,Porto,Santo Tirso,Sep-19 to Feb-20,Male,55-64,42.605597,16.0
+R2 - AM Porto,Porto,Trofa,Sep-19 to Feb-20,Female,25-34,141.067454,16.0
+R2 - AM Porto,Porto,Trofa,Sep-19 to Feb-20,Female,35-44,33.109745,16.0
+R2 - AM Porto,Porto,Trofa,Sep-19 to Feb-20,Male,35-44,20.843524,16.0
+R2 - AM Porto,Porto,Trofa,Sep-19 to Feb-20,Male,45-54,790.439395,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Female,35-44,923.894241,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Male,15-24,1813.704207,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Male,25-34,27.625672,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Male,35-44,172.499403,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Male,45-54,143.210606,16.0
+R2 - AM Porto,Porto,Valongo,Sep-19 to Feb-20,Male,65+,1473.349749,16.0
+R2 - AM Porto,Porto,Vila do Conde,Sep-19 to Feb-20,Female,25-34,335.380123,16.0
+R2 - AM Porto,Porto,Vila do Conde,Sep-19 to Feb-20,Female,35-44,144.469939,16.0
+R2 - AM Porto,Porto,Vila do Conde,Sep-19 to Feb-20,Male,45-54,76.945089,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Female,15-24,822.786723,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Female,25-34,1425.094293,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Female,35-44,308.322475,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Female,45-54,4427.626949,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Female,55-64,2097.12862,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Male,15-24,5240.719161,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Male,25-34,282.736504,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Male,35-44,883.557355,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Male,45-54,1788.376244,16.0
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-19 to Feb-20,Male,55-64,21.943108,16.0
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,15-24,536.005174,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,25-34,408.068335,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,35-44,478.337192,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,45-54,571.192813,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,55-64,741.072367,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Female,65+,72.443781,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,15-24,647.053324,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,25-34,263.166885,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,35-44,723.561851,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,45-54,794.108294,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,55-64,658.293137,15.2
+R1 - AM Lisboa,Lisboa,Amadora,Sep-20 to Jan-21,Male,65+,1092.59348,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,15-24,352.976908,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,25-34,496.352956,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,35-44,451.279131,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,45-54,670.410921,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,55-64,345.732856,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Female,65+,1308.845537,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,15-24,1253.409603,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,25-34,446.840084,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,35-44,251.980385,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,45-54,572.718581,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,55-64,487.652569,15.2
+R1 - AM Lisboa,Lisboa,Cascais,Sep-20 to Jan-21,Male,65+,54.954584,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,15-24,669.44433,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,25-34,735.866683,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,35-44,507.994453,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,45-54,783.473925,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,55-64,1190.245303,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Female,65+,5225.804785,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,15-24,1579.620589,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,25-34,890.302313,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,35-44,1073.288753,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,45-54,887.183426,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,55-64,1019.611822,15.2
+R1 - AM Lisboa,Lisboa,Lisboa,Sep-20 to Jan-21,Male,65+,3190.436995,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,15-24,522.762132,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,25-34,551.103224,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,35-44,364.604477,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,45-54,337.300594,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,55-64,993.680701,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Female,65+,702.814481,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Male,15-24,278.755283,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Male,25-34,61.714735,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Male,35-44,327.270328,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Male,45-54,837.000484,15.2
+R1 - AM Lisboa,Lisboa,Loures,Sep-20 to Jan-21,Male,55-64,900.549645,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Female,15-24,235.614199,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Female,25-34,99.578167,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Female,35-44,687.519859,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Female,45-54,106.871656,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Male,25-34,24.345274,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Male,45-54,140.797652,15.2
+R1 - AM Lisboa,Lisboa,Mafra,Sep-20 to Jan-21,Male,55-64,231.502177,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Female,15-24,68.708021,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Female,25-34,399.204807,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Female,35-44,248.894478,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Female,45-54,1072.038786,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Female,55-64,381.784371,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,15-24,1161.784715,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,25-34,562.412264,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,35-44,856.137798,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,45-54,1795.937845,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,55-64,1203.607999,15.2
+R1 - AM Lisboa,Lisboa,Odivelas,Sep-20 to Jan-21,Male,65+,4068.798434,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,15-24,752.878878,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,25-34,447.437221,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,35-44,483.736599,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,45-54,831.124275,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,55-64,2724.852228,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Female,65+,4091.999075,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,15-24,711.068098,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,25-34,662.735255,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,35-44,1060.27417,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,45-54,412.675608,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,55-64,691.536551,15.2
+R1 - AM Lisboa,Lisboa,Oeiras,Sep-20 to Jan-21,Male,65+,6687.302831,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,15-24,594.458243,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,25-34,203.358189,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,35-44,491.407433,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,45-54,363.386502,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,55-64,446.94795,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Female,65+,390.656267,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,15-24,305.868343,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,25-34,651.750341,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,35-44,379.330656,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,45-54,542.275502,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,55-64,608.485062,15.2
+R1 - AM Lisboa,Lisboa,Sintra,Sep-20 to Jan-21,Male,65+,167.942964,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,15-24,354.397869,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,25-34,54.592288,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,35-44,281.478873,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,45-54,543.432164,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,55-64,877.417957,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Female,65+,500.904232,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Male,25-34,226.283182,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Male,35-44,124.491722,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Male,45-54,308.432718,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Male,55-64,693.873061,15.2
+R1 - AM Lisboa,Lisboa,Vila Franca de Xira,Sep-20 to Jan-21,Male,65+,1733.700675,15.2
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-20 to Jan-21,Female,55-64,34.201745,15.2
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-20 to Jan-21,Male,35-44,157.793211,15.2
+R1 - AM Lisboa,Setúbal,Alcochete,Sep-20 to Jan-21,Male,55-64,37.446537,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Female,15-24,184.171509,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Female,25-34,405.646595,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Female,35-44,479.574256,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Female,45-54,321.825519,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Female,55-64,675.965262,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,15-24,381.95058,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,25-34,497.588139,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,35-44,768.014057,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,45-54,589.356141,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,55-64,1059.492103,15.2
+R1 - AM Lisboa,Setúbal,Almada,Sep-20 to Jan-21,Male,65+,1903.343342,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Female,25-34,58.338982,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Female,35-44,180.985328,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Female,45-54,61.886259,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Female,55-64,25.425953,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Female,65+,4419.364506,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Male,15-24,481.840792,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Male,35-44,77.071636,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Male,45-54,31.283509,15.2
+R1 - AM Lisboa,Setúbal,Barreiro,Sep-20 to Jan-21,Male,55-64,372.782113,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Female,15-24,46.483293,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Female,25-34,238.880918,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Female,35-44,408.352184,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Female,45-54,216.272346,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Male,25-34,637.360526,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Male,45-54,52.656256,15.2
+R1 - AM Lisboa,Setúbal,Moita,Sep-20 to Jan-21,Male,55-64,12.54729,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Female,25-34,52.056546,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Female,35-44,317.566534,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Female,45-54,24.223909,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Male,25-34,130.896738,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Male,35-44,229.471387,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Male,45-54,550.762281,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Male,55-64,135.07161,15.2
+R1 - AM Lisboa,Setúbal,Montijo,Sep-20 to Jan-21,Male,65+,48.085261,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Female,15-24,88.725945,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Female,35-44,58.12592,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Female,45-54,294.628607,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Female,55-64,779.082536,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Female,65+,1340.854459,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Male,35-44,19.304863,15.2
+R1 - AM Lisboa,Setúbal,Palmela,Sep-20 to Jan-21,Male,45-54,80.862133,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,15-24,1025.281174,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,25-34,379.832737,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,35-44,333.981558,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,45-54,324.845624,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,55-64,221.363489,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Female,65+,4219.519987,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,15-24,1631.340763,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,25-34,924.934533,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,35-44,138.548953,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,45-54,278.12157,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,55-64,1118.729895,15.2
+R1 - AM Lisboa,Setúbal,Seixal,Sep-20 to Jan-21,Male,65+,148.167257,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Female,15-24,326.970181,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Female,35-44,111.245333,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Female,45-54,324.337211,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Female,55-64,137.655749,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Male,25-34,98.7082,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Male,35-44,112.852114,15.2
+R1 - AM Lisboa,Setúbal,Sesimbra,Sep-20 to Jan-21,Male,45-54,51.372117,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Female,15-24,550.22508,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Female,25-34,207.029232,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Female,35-44,52.058988,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Female,45-54,586.863611,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Female,65+,543.328358,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Male,25-34,193.71344,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Male,35-44,98.191236,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Male,45-54,224.709442,15.2
+R1 - AM Lisboa,Setúbal,Setúbal,Sep-20 to Jan-21,Male,55-64,395.212643,15.2
+R2 - AM Porto,Aveiro,Arouca,Sep-20 to Jan-21,Male,35-44,7.725698,13.6
+R2 - AM Porto,Aveiro,Espinho,Sep-20 to Jan-21,Female,25-34,104.283311,13.6
+R2 - AM Porto,Aveiro,Espinho,Sep-20 to Jan-21,Female,35-44,75.527831,13.6
+R2 - AM Porto,Aveiro,Espinho,Sep-20 to Jan-21,Female,55-64,45.366934,13.6
+R2 - AM Porto,Aveiro,Espinho,Sep-20 to Jan-21,Male,25-34,197.786218,13.6
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-20 to Jan-21,Female,35-44,86.90637,13.6
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-20 to Jan-21,Male,15-24,456.186621,13.6
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-20 to Jan-21,Male,25-34,89.039966,13.6
+R2 - AM Porto,Aveiro,Oliveira de Azeméis,Sep-20 to Jan-21,Male,35-44,63.123921,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Female,15-24,105.282267,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Female,25-34,5.514983,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Female,35-44,472.485425,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Female,45-54,55.05125,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Male,15-24,951.633743,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Male,25-34,356.71517,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Male,35-44,98.005992,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Male,45-54,190.449031,13.6
+R2 - AM Porto,Aveiro,Santa Maria da Feira,Sep-20 to Jan-21,Male,55-64,66.3251,13.6
+R2 - AM Porto,Aveiro,São João da Madeira,Sep-20 to Jan-21,Female,25-34,34.994699,13.6
+R2 - AM Porto,Aveiro,São João da Madeira,Sep-20 to Jan-21,Female,35-44,5.985889,13.6
+R2 - AM Porto,Aveiro,São João da Madeira,Sep-20 to Jan-21,Male,35-44,24.960494,13.6
+R2 - AM Porto,Aveiro,Vale de Cambra,Sep-20 to Jan-21,Female,35-44,11.664908,13.6
+R2 - AM Porto,Aveiro,Vale de Cambra,Sep-20 to Jan-21,Male,65+,2458.667434,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,15-24,634.479167,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,25-34,220.325623,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,35-44,428.213359,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,45-54,661.464687,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,55-64,22.087562,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Female,65+,34406.41796,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,15-24,126.654141,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,25-34,607.201512,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,35-44,163.913975,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,45-54,593.235609,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,55-64,2257.790977,13.6
+R2 - AM Porto,Porto,Gondomar,Sep-20 to Jan-21,Male,65+,3504.809322,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,15-24,458.625209,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,25-34,640.869203,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,35-44,138.791331,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,45-54,1205.591396,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,55-64,414.680964,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Female,65+,3087.379969,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,15-24,218.028919,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,25-34,1502.522974,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,35-44,882.475302,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,45-54,92.392382,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,55-64,2148.822951,13.6
+R2 - AM Porto,Porto,Maia,Sep-20 to Jan-21,Male,65+,8596.305685,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,15-24,352.632026,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,25-34,491.327932,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,35-44,582.805507,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,45-54,988.858826,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,55-64,2753.474588,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Female,65+,1561.77024,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,15-24,285.538633,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,25-34,106.349285,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,35-44,409.150588,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,45-54,1862.092843,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,55-64,1901.737429,13.6
+R2 - AM Porto,Porto,Matosinhos,Sep-20 to Jan-21,Male,65+,1197.436174,13.6
+R2 - AM Porto,Porto,Paredes,Sep-20 to Jan-21,Female,25-34,240.284699,13.6
+R2 - AM Porto,Porto,Paredes,Sep-20 to Jan-21,Female,35-44,224.706308,13.6
+R2 - AM Porto,Porto,Paredes,Sep-20 to Jan-21,Male,35-44,60.632825,13.6
+R2 - AM Porto,Porto,Paredes,Sep-20 to Jan-21,Male,45-54,85.516088,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,15-24,677.336777,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,25-34,415.00416,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,35-44,654.807128,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,45-54,1198.805374,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,55-64,2237.054054,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Female,65+,7867.453847,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Male,25-34,910.283068,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Male,35-44,857.322229,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Male,45-54,1637.997776,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Male,55-64,283.036268,13.6
+R2 - AM Porto,Porto,Porto,Sep-20 to Jan-21,Male,65+,6940.273923,13.6
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-20 to Jan-21,Female,25-34,11.574446,13.6
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-20 to Jan-21,Female,35-44,181.693481,13.6
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-20 to Jan-21,Female,45-54,104.82818,13.6
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-20 to Jan-21,Male,25-34,39.465245,13.6
+R2 - AM Porto,Porto,Póvoa de Varzim,Sep-20 to Jan-21,Male,35-44,1042.130337,13.6
+R2 - AM Porto,Porto,Santo Tirso,Sep-20 to Jan-21,Female,25-34,42.254964,13.6
+R2 - AM Porto,Porto,Santo Tirso,Sep-20 to Jan-21,Female,35-44,29.620199,13.6
+R2 - AM Porto,Porto,Santo Tirso,Sep-20 to Jan-21,Male,25-34,13.274129,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Female,25-34,47.813025,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Female,35-44,5.725633,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Female,55-64,41.747919,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Male,25-34,51.031943,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Male,35-44,18.224723,13.6
+R2 - AM Porto,Porto,Trofa,Sep-20 to Jan-21,Male,45-54,474.481242,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Female,15-24,716.605474,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Female,25-34,375.43182,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Female,35-44,482.568197,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Female,45-54,508.75751,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Female,55-64,548.550137,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,15-24,1970.347331,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,25-34,366.664832,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,35-44,104.137265,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,45-54,135.788585,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,55-64,26.218829,13.6
+R2 - AM Porto,Porto,Valongo,Sep-20 to Jan-21,Male,65+,1198.556609,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Female,25-34,283.342437,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Female,35-44,9.758835,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Female,45-54,76.844212,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Male,25-34,13.155082,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Male,35-44,17.975581,13.6
+R2 - AM Porto,Porto,Vila do Conde,Sep-20 to Jan-21,Male,55-64,74.179387,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,15-24,192.148169,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,25-34,439.988329,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,35-44,439.588499,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,45-54,1251.779779,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,55-64,1075.529529,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Female,65+,1653.152713,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Male,15-24,4452.188395,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Male,25-34,363.461965,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Male,35-44,214.023515,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Male,45-54,1443.335763,13.6
+R2 - AM Porto,Porto,Vila Nova de Gaia,Sep-20 to Jan-21,Male,55-64,374.627538,13.6
